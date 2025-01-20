@@ -1,11 +1,19 @@
-- 👋 Hello to you, I’m @Antironga
-- 👀 I’m interested in creating anythings, lol
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: antironga@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I`m Oleh...
+<h1 align="center">Hi 👋, I'm Antironga</h1>
+<h3 align="center">A student from Ukraine</h3>
 
-<!---
-Antironga/Antironga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **something**
+
+- 🌱 I’m currently learning **C++**
+
+- 📝 I regularly write anyblogs on [t.me/AntiPostik](t.me/AntiPostik)
+
+- 📫 How to reach me **antironga@gmail.com**
+
+- ⚡ Fun fact **Lol, I know**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
